@@ -82,5 +82,4 @@ buildNumber.properties
 .vscode
 .history
 
-ui.frontend/*
-!ui.frontend/README.md
+ui.frontend/
